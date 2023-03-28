@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+html, body{
+  height: 100%;
+}
+body{
+  font-family: 'Amatic SC', cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:white;
+}
+
+.App{
+  width: 820px;
+  height: 900px;
+  background-color: rgba(0, 0, 0, 0.548);
+  justify-content: center;
+}
+.container{
+  
+  height: 700px;
+  width: 700px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  gap: 1em;
+  margin-top: -30px;
+  padding: 60px;
+}
+
