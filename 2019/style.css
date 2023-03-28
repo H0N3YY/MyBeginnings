@@ -1,0 +1,63 @@
+body {
+    background-image: url("1579461169_preview_Recent%20Best.jpg");
+}
+
+
+
+#tlo {
+   background-color:rgba(0,0,0, 0.7);
+    padding: 10px;
+    margin: 10px;
+    opacity: 0.7;
+}
+
+#tekst {
+    color: palevioletred;
+    text-align: center;
+    font-size: 40px;
+    opacity: 100%;
+    font-family: 'Potta One', cursive;
+}
+
+#zdjecieoczy {
+    margin-left: 2%;
+
+}
+
+#tekst2 {
+    color: white;
+    font-size: 17px;
+    opacity: 100%;
+    margin-left: 2.5%;
+
+
+
+}
+
+
+
+#tloDoTekstu {
+  
+    padding:25px;
+    margin: 10px;
+    background-color:rgba(0,0,0, 0.7);
+    display: flex;
+}
+
+#tekst3{
+     color: white;
+    font-size: 17px;
+    opacity: 100%;
+    margin-left: 2%;
+  
+}
+#tekstend{
+    color: skyblue;
+    font-size: 17px;
+     background-color: black;
+    padding: 10px;
+    margin: 1 10px;
+    opacity: 0.7;
+    
+    
+}
