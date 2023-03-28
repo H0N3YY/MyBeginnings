@@ -1,3 +1,4 @@
 # MyFirstWebsite
+This was my first website which was created in 2019 😂.
 
-[preview]-> https://h0n3yy.github.io/MyFirstWebsite/
+If u want check -> https://h0n3yy.github.io/MyFirstWebsite/
