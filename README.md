@@ -2,7 +2,7 @@
 This was my first website which was created in 2019 😂.
 
 # JavaScript Mini-Game
-A game that draws points.
+A fabular mini-game that draws points.
 
 # React Memory-Game 
 What the memory page looked like in November 2022
