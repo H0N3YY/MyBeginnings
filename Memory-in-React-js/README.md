@@ -13,7 +13,3 @@ potem
 npm install @mui/material @emotion/react @emotion/styled
 
 potem
-
-# Kocham cię 
-## So much
-jesteś moją $\Alpha$ <3
