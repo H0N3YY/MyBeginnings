@@ -1,5 +1,6 @@
 # MyFirstWebsite
 This was my first website which was created in 2019 😂.
+It shows my favorite game Terraria. 
 
 # JavaScript Mini-Game
 A fabular mini-game that draws points.
